@@ -40,3 +40,6 @@ https://github.com/andersonzeroone/authNextJS/commit/7fcdb6631a748d1f81e7715fd1d
 
 add client side page quards
 https://github.com/andersonzeroone/authNextJS/commit/3c478e5af9af83ca62ba25fdfc9e56365f6f7379
+
+add rotas privadas
+https://github.com/andersonzeroone/authNextJS/commit/64283eb88db8189cc608e0538ae6fde21d53199d
