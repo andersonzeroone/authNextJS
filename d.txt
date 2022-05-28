@@ -31,3 +31,6 @@ https://github.com/andersonzeroone/authNextJS/commit/461004c2122ea62d3d8f6626a83
 
 Criação do provider de credenciais 
 https://github.com/andersonzeroone/authNextJS/commit/1d9759130fa6d6d3536605d131b736f7e28f9965
+
+Realizando login
+https://github.com/andersonzeroone/authNextJS/commit/6e0d7c1ad631b68682d5dd79dc04ee88b812212c
