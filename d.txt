@@ -21,3 +21,7 @@ https://github.com/andersonzeroone/authNextJS/commit/1eafeee09def4ac51bafcbda8ab
 
 conexão com mongoDB
 https://github.com/andersonzeroone/authNextJS/commit/b4e18afed7491335003dbeaf2bf261fdf83fb3ce
+
+Enviando dados de user para o mongoDB
+
+https://github.com/andersonzeroone/authNextJS/commit/c9f1642a156bd2c240d78d4275b872d6d63f5af3
