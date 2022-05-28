@@ -28,3 +28,6 @@ https://github.com/andersonzeroone/authNextJS/commit/c9f1642a156bd2c240d78d4275b
 
 Permitindo cadastro com apenas um email
 https://github.com/andersonzeroone/authNextJS/commit/461004c2122ea62d3d8f6626a83d991201201f01
+
+Criação do provider de credenciais 
+https://github.com/andersonzeroone/authNextJS/commit/1d9759130fa6d6d3536605d131b736f7e28f9965
