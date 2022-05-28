@@ -17,3 +17,7 @@ Projeto Auth com next JS
 
 commit inicial
 https://github.com/andersonzeroone/authNextJS/commit/1eafeee09def4ac51bafcbda8ab2b4418c71eb40
+
+
+conexão com mongoDB
+https://github.com/andersonzeroone/authNextJS/commit/b4e18afed7491335003dbeaf2bf261fdf83fb3ce
