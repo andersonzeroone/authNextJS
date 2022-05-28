@@ -37,3 +37,6 @@ https://github.com/andersonzeroone/authNextJS/commit/6e0d7c1ad631b68682d5dd79dc0
 
 Add a função de deslogar
 https://github.com/andersonzeroone/authNextJS/commit/7fcdb6631a748d1f81e7715fd1d65ae80972b1a0
+
+add client side page quards
+https://github.com/andersonzeroone/authNextJS/commit/3c478e5af9af83ca62ba25fdfc9e56365f6f7379
