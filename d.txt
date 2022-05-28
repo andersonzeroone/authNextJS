@@ -43,3 +43,6 @@ https://github.com/andersonzeroone/authNextJS/commit/3c478e5af9af83ca62ba25fdfc9
 
 add rotas privadas
 https://github.com/andersonzeroone/authNextJS/commit/64283eb88db8189cc608e0538ae6fde21d53199d
+
+add provider session
+https://github.com/andersonzeroone/authNextJS/commit/bdb55ae5b7c3c91fb78ea6ab2d04c326b2c654a7
