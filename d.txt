@@ -1,0 +1,13 @@
+Estudo sobre next
+
+- Principais etapas de implantação
+
+- Verificando e Otimizando Nosso Código
+
+
+Criação do arquivo env para deploy
+https://github.com/andersonzeroone/blogNextJS/commit/c168bd46916e0f43dd363ec100c2a34126dad1ee
+
+- Executando uma compilação de teste e reduzindo o tamanho do código
+
+-Um Exemplo de Implantação Completa (Para Vercel)
