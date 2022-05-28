@@ -11,3 +11,9 @@ https://github.com/andersonzeroone/blogNextJS/commit/c168bd46916e0f43dd363ec100c
 - Executando uma compilação de teste e reduzindo o tamanho do código
 
 -Um Exemplo de Implantação Completa (Para Vercel)
+
+
+Projeto Auth com next JS
+
+commit inicial
+https://github.com/andersonzeroone/authNextJS/commit/1eafeee09def4ac51bafcbda8ab2b4418c71eb40
