@@ -34,3 +34,6 @@ https://github.com/andersonzeroone/authNextJS/commit/1d9759130fa6d6d3536605d131b
 
 Realizando login
 https://github.com/andersonzeroone/authNextJS/commit/6e0d7c1ad631b68682d5dd79dc04ee88b812212c
+
+Add a função de deslogar
+https://github.com/andersonzeroone/authNextJS/commit/7fcdb6631a748d1f81e7715fd1d65ae80972b1a0
